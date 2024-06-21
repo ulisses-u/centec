@@ -33,6 +33,7 @@ unoDeEscada.acelerar()
 let renegade = new Carro('Jeep','renegade','azul',100,0)
 renegade.acelerar()
 renegade.freiar()
+
 console.log(renegade)
 
 //console.log(unoDeEscada)
