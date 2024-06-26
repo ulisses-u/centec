@@ -12,7 +12,8 @@
             position: absolute;
             left: 50%;
             top: 50%;
-            transform: translate(-50%, -50%)
+            transform: translate(-50%, -50%);
+            border-radius: 20px;
 
          }
 
@@ -20,6 +21,7 @@
             text-align: center;
             color: rgb(117, 16, 16);
             font-family: Verdana, Geneva, Tahoma, sans-serif
+            
          }
 
          form input[type=text],
@@ -30,6 +32,7 @@
             border: 1px solid #ccc;
             padding-left: 10px;
             margin: 10 px 0;
+            border-radius: 20px;
          }
 
          form input[type=submit]{
